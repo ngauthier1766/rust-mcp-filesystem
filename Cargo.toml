@@ -5,3 +5,4 @@ edition = "2021"
 description = "Blazing-fast, asynchronous MCP server for seamless filesystem operations."
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
